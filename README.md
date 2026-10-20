@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Daniel Ezeuzoh 👋
 
-<!--
-**daniel-ezeuzoh/daniel-ezeuzoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python developer based in Lagos, Nigeria, focused on building data pipelines, automation scripts, and backend utilities.
 
-Here are some ideas to get you started:
+## 🎯 My Focus
+I am actively building my foundations in:
+- **Data Engineering & ETL Pipelines** (Python, CSV processing, data validation)
+- **Cloud Architecture & DevOps** (Automation, file systems, logging)
+- **Backend Engineering** (Modular code design, error handling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL (learning)
+- **Libraries:** `csv`, `datetime`, `os`
+- **Concepts:** ETL Pipelines, File I/O, Exception Handling, Modular Design
+
+## 🚀 Featured Projects
+- **[Expense Tracker ETL Pipeline](https://github.com/daniel-ezeuzoh/expense-tracker)** - A robust Python pipeline that ingests raw CSV data, cleans it, validates records, and exports formatted analytical reports and logs.
+
+## 📫 Connect With Me
+- **Location:** Lagos, Nigeria
